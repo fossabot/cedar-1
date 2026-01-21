@@ -1,6 +1,7 @@
 # Cedar
 
 ![Cedar Logo](./logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjohn-h-kastner-aws%2Fcedar.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjohn-h-kastner-aws%2Fcedar?ref=badge_shield)
 
 [![Crates.io](https://img.shields.io/crates/v/cedar-policy.svg)](https://crates.io/crates/cedar-policy)
 [![docs.rs](https://img.shields.io/docsrs/cedar-policy)](https://docs.rs/cedar-policy/latest/cedar_policy/)
@@ -150,3 +151,6 @@ We welcome contributions from the community. Please either file an issue, or see
 ## License
 
 This project is licensed under the Apache-2.0 License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjohn-h-kastner-aws%2Fcedar.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjohn-h-kastner-aws%2Fcedar?ref=badge_large)
